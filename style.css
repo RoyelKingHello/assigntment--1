@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+}
+
+
+header {
+    color: white;
+    background-image: url(images/bg.png);
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+header h2{
+    font-size: 32px;
+}
+header h1{
+    font-size: 72px;
+    text-transform: capitalize;
+}
+.off-section {
+    color: brown;
+   text-align: center;
+}
+.off-section h2{
+    color: red;
+    font-size: 50px;
+}
+.off-section h1{
+    color: black;
+}
+.off-section p{
+    color: rgb(252, 113, 113);
+}
+img{
+    height: 300px;
+}
+.party-section {
+    background-image: url(images/partybg.png);
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 30px 200px ;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.party-image-side img{
+    width: 320px;
+    height: 464px;
+}
+.location {
+    text-align: center;
+    background-color: rgb(227, 217, 217);
+    margin: 10px;
+    padding: 15px;
+    flex-direction: column;
+    display: flex;
+}
+.location span  {
+    color: red;
+}
+
+
+.location button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    margin: 0 auto;
+}
+.best-offer-text-side p {
+   width: 400px; 
+}
+
+.best-offer-sticker p{
+    width: 400px;
+}
+
+.best-offer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.best-offer-picture-side img{
+    border: 10px red solid;
+    border-radius: 50%;
+    padding: 15px;
+
+}
+.best-offer-sticker img{
+    width: 100px;
+    height: 100px;
+}
+.best-offer-sticker {
+    margin-left: 20px;
+
+}
+.potfolio-images{
+  
+  text-align: center;
+
+}
+
+.gift-section{
+    padding: 0 200px;
+}
+.newslatter-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.newslatter-section img {
+    width: 100px;
+    height: 100px;
+}
+section{
+     margin: 100px 0;
+
+}
+.newslatter-section{
+    background-color: rgb(234, 240, 246);
+    padding: 50px 0;
+}
+.form input{
+    padding: 10px ;
+    
+}
+.form button{
+    padding: 10px;
+    background-color: red;
+}
+
+
+
+
+span{
+    color: red;
+}
+h1{
+    text-align: center;
+    
+}
+h5{
+    text-align: center;
+
+}
+
+img{
+   
+}
+.picture-right{
+  margin-left: auto;
+   height: 100px;
+   width: 100px;
+}
+
+
